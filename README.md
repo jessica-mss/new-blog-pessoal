@@ -1,2 +1,4 @@
 # new-blog-pessoal
-exercitando o criação de API com o projeto de blog pessoal feito na generation
+Exercitando o criação de API com o projeto de blog pessoal feito na generation.
+
+27/09/23 - video aula 8
